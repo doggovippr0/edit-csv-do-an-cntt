@@ -1,0 +1,212 @@
+,Title,Author,Genre,SubGenre,Height,Publisher
+0, Fundamentals of Wavelets, Jaideva Goswami,tech,signal_processing,228,Wiley
+1, Data Smart, John Foreman,tech,data_science,235,Wiley
+2, God Created the Integers, Stephen Hawking,tech,mathematics,197,Penguin
+3, Superfreakonomics, Stephen Dubner,science,economics,179,HarperCollins
+4, Orientalism, Edward Said,nonfiction,history,197,Penguin
+5, The Nature of Statistical Learning Theory, Vladimir Vapnik,tech,data_science,230,Springer
+6, Integration of the Indian States, V P Menon,nonfiction,history,217,Orient Blackswan
+7, The Drunkard's Walk, Leonard Mlodinow,science,mathematics,197,Penguin
+8, Image Processing & Mathematical Morphology, Frank Shih,tech,signal_processing,241,CRC
+9, How to Think Like Sherlock Holmes, Maria Konnikova,nonfiction,psychology,240,Penguin
+10, Data Scientists at Work, Sebastian Gutierrez,tech,data_science,230,Apress
+11, Slaughterhouse Five, Kurt Vonnegut,fiction,classic,198,Random House
+12, Birth of a Theorem, Cedric Villani,science,mathematics,234,Bodley Head
+13, Structure & Interpretation of Computer Programs, Gerald Sussman,tech,computer_science,240,MIT Press
+14, The Age of Wrath, Abraham Eraly,nonfiction,history,238,Penguin
+15, The Trial, Frank Kafka,fiction,classic,198,Random House
+16, Statistical Decision Theory', John Pratt,tech,data_science,236,MIT Press
+17, Data Mining Handbook, Robert Nisbet,tech,data_science,242,Apress
+18, The New Machiavelli, H. G. Wells,fiction,novel,180,Penguin
+19, Physics & Philosophy, Werner Heisenberg,philosophy,science,197,Penguin
+20, Making Software, Andy Oram,tech,computer_science,232,O'Reilly
+21, Vol I Analysis, Terence Tao,tech,mathematics,248,HBA
+22, Machine Learning for Hackers, Drew Conway,tech,data_science,233,O'Reilly
+23, The Signal and the Noise, Nate Silver,tech,data_science,233,Penguin
+24, Python for Data Analysis, Wes McKinney,tech,data_science,233,O'Reilly
+25, Introduction to Algorithms, Thomas Cormen,tech,computer_science,234,MIT Press
+26, The Beautiful and the Damned, Siddhartha Deb,nonfiction,history,198,Penguin
+27, The Outsider, Albert Camus,fiction,classic,198,Penguin
+28, The - Vol I Complete Sherlock Holmes, Arthur Conan Doyle,fiction,classic,176,Random House
+29, The - Vol II Complete Sherlock Holmes, Arthur Conan Doyle,fiction,classic,176,Random House
+30, The Wealth of Nations, Adam Smith,science,economics,175,Random House
+31, The Pillars of the Earth, Ken Follett,fiction,novel,176,Random House
+32, Mein Kampf, Adolf Hitler,nonfiction,autobiography,212,Rupa
+33, The Tao of Physics, Fritjof Capra,science,physics,179,Penguin
+34, Surely You're Joking Mr Feynman, Richard Feynman,science,physics,198,Random House
+35, A Farewell to Arms, Ernest Hemingway,fiction,classic,179,Rupa
+36, The Veteran, Frederick Forsyth,fiction,novel,177,Transworld
+37, False Impressions, Jeffery Archer,fiction,novel,177,Pan
+38, The Last Lecture, Randy Pausch,nonfiction,autobiography,197,Hyperion
+39, Return of the Primitive, Ayn Rand,philosophy,objectivism,202,Penguin
+40, Jurassic Park, Michael Crichton,fiction,novel,174,Random House
+41, A Russian Journal, John Steinbeck,nonfiction,history,196,Penguin
+42, Tales of Mystery and Imagination, Edgar Allen Poe,fiction,classic,172,HarperCollins
+43, Freakonomics, Stephen Dubner,science,economics,197,Penguin
+44, The Hidden Connections, Fritjof Capra,science,physics,197,HarperCollins
+45, The Story of Philosophy, Will Durant,philosophy,history,170,Pocket
+46, Asami Asami, P L Deshpande,fiction,novel,205,Mauj
+47, Journal of a Novel, John Steinbeck,fiction,classic,196,Penguin
+48, Once There Was a War, John Steinbeck,nonfiction,history,196,Penguin
+49, The Moon is Down, John Steinbeck,fiction,classic,196,Penguin
+50, The Brethren, John Grisham,fiction,novel,174,Random House
+51, In a Free State, V. S. Naipaul,fiction,novel,196,Rupa
+52, Catch 22, Joseph Heller,fiction,classic,178,Random House
+53, The Complete Mastermind, BBC,nonfiction,trivia,178,BBC
+54, Dylan on Dylan, Bob Dylan,nonfiction,autobiography,197,Random House
+55, Soft Computing & Intelligent Systems, Madan Gupta,tech,data_science,242,Elsevier
+56, Textbook of Economic Theory, Alfred Stonier,tech,economics,242,Pearson
+57, Econometric Analysis, W. H. Greene,tech,economics,242,Pearson
+58, Learning OpenCV, Gary Bradsky,tech,signal_processing,232,O'Reilly
+59, Data Structures Using C & C++, Andrew Tanenbaum,tech,computer_science,235,Prentice Hall
+60, A Modern Approach Computer Vision, David Forsyth,tech,signal_processing,255,Pearson
+61, Principles of Communication Systems, Schilling Taub,tech,signal_processing,240,TMH
+62, Let Us C, Yashwant Kanetkar,tech,computer_science,213,Prentice Hall
+63, The Amulet of Samarkand, Jonathan Stroud,fiction,novel,179,Random House
+64, Crime and Punishment, Fyodor Dostoevsky,fiction,classic,180,Penguin
+65, Angels & Demons, Dan Brown,fiction,novel,178,Random House
+66, The Argumentative Indian, Amartya Sen,nonfiction,history,209,Picador
+67, Sea of Poppies, Amitav Ghosh,fiction,novel,197,Penguin
+68, The Idea of Justice, Amartya Sen,philosophy,economics,212,Penguin
+69, A Raisin in the Sun, Lorraine Hansberry,fiction,novel,175,Penguin
+70, All the President's Men, Bob Woodward,nonfiction,history,177,Random House
+71, A Prisoner of Birth, Jeffery Archer,fiction,novel,176,Pan
+72, Scoop!, Kuldip Nayar,nonfiction,history,216,HarperCollins
+73, Ahe Manohar Tari, Sunita Deshpande,nonfiction,autobiography,213,Mauj
+74, The Last Mughal, William Dalrymple,nonfiction,history,199,Penguin
+75, Vol 39 No. 1 Social Choice & Welfare, Various,tech,economics,235,Springer
+76, Radiowaril Bhashane & Shrutika, P L Deshpande,nonfiction,misc,213,Mauj
+77, Gun Gayin Awadi, P L Deshpande,nonfiction,misc,212,Mauj
+78, Aghal Paghal, P L Deshpande,nonfiction,misc,212,Mauj
+79, Maqta-e-Ghalib, Sanjay Garg,nonfiction,poetry,221,Mauj
+80, Beyond Degrees, ,philosophy,education,222,HarperCollins
+81, Manasa, V P Kale,nonfiction,misc,213,Mauj
+82, India from Midnight to Milennium, Shashi Tharoor,nonfiction,history,198,Penguin
+83, The World's Greatest Trials, ,nonfiction,history,210,
+84, The Great Indian Novel, Shashi Tharoor,fiction,novel,198,Penguin
+85, O Jerusalem!, Dominique Lapierre,nonfiction,history,217,vikas
+86, The City of Joy, Dominique Lapierre,fiction,novel,177,vikas
+87, Freedom at Midnight, Dominique Lapierre,nonfiction,history,167,vikas
+88, The Winter of Our Discontent, John Steinbeck,fiction,classic,196,Penguin
+89, On Education, Bertrand Russell,philosophy,education,203,Routledge
+90, Free Will, Sam Harris,nonfiction,psychology,203,FreePress
+91, Bookless in Baghdad, Shashi Tharoor,nonfiction,history,206,Penguin
+92, The Case of the Lame Canary, Earle Stanley Gardner,fiction,novel,179,
+93, The Theory of Everything, Stephen Hawking,science,physics,217,Jaico
+94, New Markets & Other Essays, Peter Drucker,science,economics,176,Penguin
+95, Electric Universe, David Bodanis,science,physics,201,Penguin
+96, The Hunchback of Notre Dame, Victor Hugo,fiction,classic,175,Random House
+97, Burning Bright, John Steinbeck,fiction,classic,175,Penguin
+98, The Age of Discontuinity, Peter Drucker,nonfiction,economics,178,Random House
+99, Doctor in the Nude, Richard Gordon,fiction,novel,179,Penguin
+100, Down and Out in Paris & London, George Orwell,nonfiction,autobiography,179,Penguin
+101, Identity & Violence, Amartya Sen,philosophy,philosophy,219,Penguin
+102, Beyond the Three Seas, William Dalrymple,nonfiction,history,197,Random House
+103, The World's Greatest Short Stories, ,fiction,classic,217,Jaico
+104, Talking Straight, Lee Iacoca,nonfiction,autobiography,175,
+105, Vol 3 Maugham's Collected Short Stories, William S Maugham,fiction,classic,171,Vintage
+106, The Phantom of Manhattan, Frederick Forsyth,fiction,classic,180,
+107, Ashenden of The British Agent, William S Maugham,fiction,classic,160,Vintage
+108, Zen & The Art of Motorcycle Maintenance, Robert Pirsig,philosophy,autobiography,172,Vintage
+109, The Great War for Civilization, Robert Fisk,nonfiction,history,197,HarperCollins
+110, We the Living, Ayn Rand,fiction,novel,178,Penguin
+111, The Artist and the Mathematician, Amir Aczel,science,mathematics,186,HighStakes
+112, History of Western Philosophy, Bertrand Russell,philosophy,philosophy,213,Routledge
+113, Selected Short Stories, ,fiction,classic,215,Jaico
+114, Rationality & Freedom, Amartya Sen,science,economics,213,Springer
+115, Clash of Civilizations and Remaking of the World Order, Samuel Huntington,nonfiction,history,228,Simon&Schuster
+116, Uncommon Wisdom, Fritjof Capra,nonfiction,anthology,197,Fontana
+117, One, Richard Bach,nonfiction,autobiography,172,Dell
+118, Karl Marx Biography, ,nonfiction,autobiography,162,
+119, To Sir With Love, Braithwaite,fiction,classic,197,Penguin
+120, Half A Life, V S Naipaul,fiction,novel,196,
+121, The Discovery of India, Jawaharlal Nehru,nonfiction,history,230,
+122, Apulki, P L Deshpande,nonfiction,misc,211,
+123, Unpopular Essays, Bertrand Russell,philosophy,philosophy,198,
+124, The Deceiver, Frederick Forsyth,fiction,novel,178,
+125, Veil: Secret Wars of the CIA, Bob Woodward,nonfiction,history,171,
+126, Char Shabda, P L Deshpande,nonfiction,misc,214,
+127, Rosy is My Relative, Gerald Durrell,fiction,novel,176,
+128, The Moon and Sixpence, William S Maugham,fiction,classic,180,
+129, Political Philosophers, ,philosophy,politics,162,
+130, A Short History of the World, H G Wells,nonfiction,history,197,
+131, The Trembling of a Leaf, William S Maugham,fiction,novel,205,
+132, Doctor on the Brain, Richard Gordon,fiction,novel,204,
+133, Simpsons & Their Mathematical Secrets, Simon Singh,science,mathematics,233,
+134, Pattern Classification, Hart Duda,tech,data_science,241,
+135, From Beirut to Jerusalem, Thomas Friedman,nonfiction,history,202,
+136, The Code Book, Simon Singh,science,mathematics,197,
+137, The Age of the Warrior, Robert Fisk,nonfiction,history,197,
+138, Final Crisis, ,fiction,comic,257,
+139, The Killing Joke, ,fiction,comic,283,
+140, Flashpoint, ,fiction,comic,265,
+141, Batman Earth One, ,fiction,comic,265,
+142, Crisis on Infinite Earths, ,fiction,comic,258,
+143, The Numbers Behind Numb3rs, Keith Devlin,science,mathematics,202,
+144, Superman Earth One - 1, ,fiction,comic,259,
+145, Superman Earth One - 2, ,fiction,comic,258,
+146, Justice League: Throne of Atlantis, ,fiction,comic,258,
+147, Justice League: The Villain's Journey, ,fiction,comic,258,
+148, The Death of Superman, ,fiction,comic,258,
+149, History of the DC Universe, ,fiction,comic,258,
+150, Batman: The Long Halloween, ,fiction,comic,258,
+151, A Life in Letters, John Steinbeck,nonfiction,autobiography,196,
+152, The Information, James Gleick,science,mathematics,233,
+153, vol 106 No 3 Journal of Economics, ,science,economics,235,
+154, Elements of Information Theory, Joy Thomas,tech,signal_processing,229,
+155, Power Electronics - Rashid, Muhammad Rashid,tech,computer_science,235,
+156, Power Electronics - Mohan, Ned Mohan,tech,computer_science,237,
+157, Neural Networks, Simon Haykin,tech,data_science,240,
+158, The Grapes of Wrath, John Steinbeck,fiction,classic,196,
+159, Vyakti ani Valli, P L Deshpande,nonfiction,misc,211,
+160, Statistical Learning Theory, Vladimir Vapnik,tech,data_science,228,
+161, Empire of the Mughal - The Tainted Throne, Alex Rutherford,nonfiction,history,180,
+162, Empire of the Mughal - Brothers at War, Alex Rutherford,nonfiction,history,180,
+163, Empire of the Mughal - Ruler of the World, Alex Rutherford,nonfiction,history,180,
+164, Empire of the Mughal - The Serpent's Tooth, Alex Rutherford,nonfiction,history,180,
+165, Empire of the Mughal - Raiders from the North, Alex Rutherford,nonfiction,history,180,
+166, Mossad, Michael Baz-Zohar,nonfiction,history,236,
+167, Jim Corbett Omnibus, Jim Corbett,nonfiction,history,223,
+168, 20000 Leagues Under the Sea, Jules Verne,fiction,novel,190,
+169, Batatyachi Chal, Deshpande P L,fiction,novel,200,
+170, Hafasavnuk, Deshpande P L,fiction,novel,211,
+171, Urlasurla, Deshpande P L,fiction,novel,211,
+172, Pointers in C, Yashwant Kanetkar,tech,computer_science,213,
+173, The Cathedral and the Bazaar, Eric Raymond,tech,computer_science,217,
+174, Design with OpAmps, Sergio Franco,tech,computer_science,240,
+175, Think Complexity, Allen Downey,tech,data_science,230,
+176, The Devil's Advocate, Morris West,fiction,novel,178,
+177, Ayn Rand Answers, Ayn Rand,philosophy,objectivism,203,
+178, Philosophy: Who Needs It, Ayn Rand,philosophy,objectivism,171,
+179, The World's Great Thinkers, ,science,physics,189,
+180, Data Analysis with Open Source Tools, Phillip Janert,tech,data_science,230,
+181, Broca's Brain, Carl Sagan,science,physics,174,
+182, Men of Mathematics, E T Bell,science,mathematics,217,
+183, Oxford book of Modern Science Writing, Richard Dawkins,science,science,240,
+184, Judiciary and Democracy Justice, Sudhanshu Ranjan,nonfiction,legal,224,
+185, The Arthashastra, Kautiyla,philosophy,philosophy,214,
+186, We the People, Palkhivala,philosophy,philosophy,216,
+187, We the Nation, Palkhivala,philosophy,philosophy,216,
+188, The Courtroom Genius, Sorabjee,nonfiction,autobiography,217,
+189, Dongri to Dubai, Hussain Zaidi,nonfiction,history,216,
+190, Foundation History of England, Peter Ackroyd,nonfiction,history,197,
+191, City of Djinns, William Dalrymple,nonfiction,history,198,
+192, India's Legal System, Nariman,nonfiction,legal,177,
+193, More Tears to Cry, Jean Sassoon,fiction,novel,235,
+194, The Ropemaker, Peter Dickinson,fiction,novel,196,
+195, Angels & Demons, Dan Brown,fiction,novel,170,
+196, The Judge, ,fiction,novel,170,
+197, The Attorney, ,fiction,novel,170,
+198, The Prince, Machiavelli,fiction,classic,173,
+199, Eyeless in Gaza, Aldous Huxley,fiction,novel,180,
+200, Tales of Beedle the Bard, J K Rowling,fiction,novel,184,
+201, Girl with the Dragon Tattoo, Steig Larsson,fiction,novel,179,
+202, Girl who kicked the Hornet's Nest, Steig Larsson,fiction,novel,179,
+203, Girl who played with Fire, Steig Larsson,fiction,novel,179,
+204, Batman Handbook, ,fiction,comic,270,
+205, Murphy's Law, ,philosophy,psychology,178,
+206, Structure and Randomness, Terence Tao,science,mathematics,252,
+207, Image Processing with MATLAB, Steve Eddins,tech,signal_processing,241,
+208, Animal Farm, George Orwell,fiction,classic,180,
+209, The Idiot, Fyodor Dostoevsky,fiction,classic,197,
+210, A Christmas Carol, Charles Dickens,fiction,classic,196,
