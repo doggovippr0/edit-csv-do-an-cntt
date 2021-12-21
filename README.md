@@ -1,2 +1,2 @@
 # edit-csv-do-an-cntt
-lưu lại cách sửa lỗi ngược string ở 2 fỉeld Title và Author
+lưu trữ cách sửa lỗi ngược string và bỏ dấu _ ở các field, làm đẹp dữ liệu
